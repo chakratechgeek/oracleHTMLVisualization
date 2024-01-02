@@ -1,6 +1,5 @@
 Convert HTML AWR report to Excel file for Visualization using Python Language
 
-=======================================================================
 Why is this tool now? :
 ~95% of Oracle database's Performance and Tuning (PT) DBA's primary role is to review AWR reports.
 ~50% of time, in live monitoring, we rely on ASH and AWR reports.
@@ -17,4 +16,4 @@ Basic programming knowledge on Python language.
 Basic understanding of OOPS concepts.
 Basic understanding of pandas library
 =======================================================================
-
+Sample
